@@ -96,6 +96,7 @@ Contributions, improvements, and suggestions are welcome.
 
 This project is open-source and available under the MIT License.
 
-## Connect with Me
+## Author
 
-GitHub: :contentReference[oaicite:0]{index=0}
+Created by **Sehran Rasool**  
+GitHub: https://github.com/sehranrasooljan
